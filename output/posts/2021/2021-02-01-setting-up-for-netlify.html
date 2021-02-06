@@ -1,0 +1,98 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <title>more10 - Deploying your Statiq site to Netlify</title>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="/assets/styles.css" rel="stylesheet" />
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin />
+
+
+    <meta name="description" content="A quick and dirty way to host your hello world for the world (hello!) to see">
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="more10" />
+    <meta name="twitter:title" content="Deploying your Statiq site to Netlify" />
+    <meta name="twitter:description" content="A quick and dirty way to host your hello world for the world (hello!) to see" />
+    <meta name="twitter:image" content="/assets/avatar.png" />
+
+    
+</head>
+    <body class="bg-gray-50">
+        <header class="fixed top-0 left-0 w-full bg-gray-100 shadow py-2 md:py-4 z-50">
+            <nav class="mx-auto max-w-3xl px-4 md:px-8 xl:px-0 flex  items-center">
+                <img src="/assets/avatar.svg" alt="Avatar image" height="3rem" width="3rem" class="h-12 w-12 mr-2"/>
+                <h1>
+                    <a class="font-serif font-light text-2xl lg:text-3xl lg:tracking-wide text-blue-700 flex" href="/">
+                        more10
+                    </a>
+                </h1>
+                <div class="ml-auto">
+                    <a class="text-gray-400 hover:text-blue-400 transition-all hover:scale-105" title="Blog source" href="https://github.com/phil-scott-78/thirty25-statiq">
+                        <svg width="2rem" height="2rem" class="fill-current" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8C0 11.54 2.29 14.53 5.47 15.59C5.87 15.66 6.02 15.42 6.02 15.21C6.02 15.02 6.01 14.39 6.01 13.72C4 14.09 3.48 13.23 3.32 12.78C3.23 12.55 2.84 11.84 2.5 11.65C2.22 11.5 1.82 11.13 2.49 11.12C3.12 11.11 3.57 11.7 3.72 11.94C4.44 13.15 5.59 12.81 6.05 12.6C6.12 12.08 6.33 11.73 6.56 11.53C4.78 11.33 2.92 10.64 2.92 7.58C2.92 6.71 3.23 5.99 3.74 5.43C3.66 5.23 3.38 4.41 3.82 3.31C3.82 3.31 4.49 3.1 6.02 4.13C6.66 3.95 7.34 3.86 8.02 3.86C8.7 3.86 9.38 3.95 10.02 4.13C11.55 3.09 12.22 3.31 12.22 3.31C12.66 4.41 12.38 5.23 12.3 5.43C12.81 5.99 13.12 6.7 13.12 7.58C13.12 10.65 11.25 11.33 9.47 11.53C9.76 11.78 10.01 12.26 10.01 13.01C10.01 14.08 10 14.94 10 15.21C10 15.42 10.15 15.67 10.55 15.59C13.71 14.53 16 11.53 16 8C16 3.58 12.42 0 8 0Z" transform="scale(64)" />
+                        </svg>
+                    </a>
+                </div>
+            </nav>
+        </header>
+
+        <main class="mx-auto max-w-3xl px-4 md:px-8 xl:px-0 mt-20 md:mt-24 mb-4 md:mb-16 font-light">
+            <h2 class="font-serif font-bold text-3xl lg:font-extrabold lg:text-5xl leading-snug mb-2 lg:mb-4">Deploying your Statiq site to Netlify</h2>
+            
+<p class="mb-1 lg:my-b text-sm">Posted <time>den 1 februari 2021</time></p>
+
+<ul class="flex space-x-1 md:space-x-2 mb-4 overflow-hidden">
+<li  class="text-xs  py-0.5 px-1 text-blue-900 bg-blue-50 border border-blue-200 hover:bg-blue-100 hover:text-blue-800 hover:border-blue-300 rounded transition-colors">
+            <a href="/tags/statiq"> Statiq</a>
+        </li>
+</ul>
+
+
+<article class="prose lg:prose-lg max-w-full font-light text-gray-700 lg:leading-loose">
+    <p>This is the first part of (at least) two where we look at getting your site hosted at <a href="http://www.netlify.com">www.netlify.com</a>.</p>
+<h2 id="pre-requisites">1. Pre-requisites</h2>
+<ul>
+<li>an initial setup of Static.Web, see <a href="2021-02-01-getting-started-with-static">Getting started with Static</a></li>
+<li>an Github account</li>
+<li>an Netlify account</li>
+</ul>
+<h2 id="pushing-it-to-github">2. Pushing it to Github</h2>
+<p>I'll cover this part in a separate post. Soon.</p>
+<h2 id="setting-up-netlify">3. Setting up Netlify</h2>
+<ul>
+<li>Go to and login in to <a href="http://www.netlify.com">www.netlify.com</a>.</li>
+<li>From the app.netlify.com dashboard, click <strong>New site from Git</strong>.</li>
+<li>On the next screen, choose your git provider. In this example that would be <strong>GitHub</strong>.</li>
+<li>Now you need to authorize to GitHub, and after that you'll be presented  with a search for repositorys to link to Netlify. Most likely you don't see your new blog repo there, click <strong>Configure the Netlify app on GitHub</strong></li>
+<li>Pick your repo</li>
+<li>Set the Branch to deploy to <strong>master</strong></li>
+<li>Skip <strong>Build commands</strong> for now, and set <strong>Publish directory</strong> to <code>output</code></li>
+<li>Click <strong>Deploy site</strong></li>
+</ul>
+<p>In a few seconds it'll be up and running.</p>
+<p>Ok - so that was the really quick and dirty version. This means that you first have to build it locally and then push to GitHub. As soon as it's pushed to the master branch it will be deployed to Netlify. Neat!</p>
+<p>We of course want to skip building it locally, just pushing the <code>input</code> folder and letting instead GitHub automatically build when pushed and after that deployed to Netlify automatically.</p>
+<p>Yes - we'll get to that. But let's just celebrate for a second or two that our hello world &quot;site&quot; is live first.</p>
+<p>..</p>
+<p>..</p>
+<p>..</p>
+<p>...</p>
+<p>Ok, done. Moving on.</p>
+
+</article>
+        </main>
+
+        <footer>
+            <span class="mx-auto py-4 max-w-4xl block text-sm font-light text-center">
+                &copy; 2021 Mårten Johannesson | Built with <a class="text-blue-700" href="https://statiq.dev/">Statiq</a> and a lot of inspiration (and code) from <a class="text-blue-700" href="https://github.com/phil-scott-78/thirty25-statiq/">Thirty25-statiq</a> 
+            </span>
+        </footer>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.22.0/prism.min.js" integrity="sha512-9+422Bs3A87UkWfp+qV80Nfv9arhbCXKY1rxrF2seorI36mIIstMiuBfyKLF1yH1nnzQkEWq2xrzT4XU3Z+vrA==" crossorigin="anonymous"></script>
+	    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.22.0/plugins/autoloader/prism-autoloader.min.js" integrity="sha512-Q3qGP1uJL/B0sEmu57PKXjCirgPKMbg73OLRbTJ6lfHCVU5zkHqmcTI5EV2fSoPV1MHdKsCBE7m/aS6q0pPjRQ==" crossorigin="anonymous"></script>
+    </body>
+</html>
+
