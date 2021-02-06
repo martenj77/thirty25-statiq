@@ -367,5 +367,5 @@ FodyWeavers.xsd
 torrents/
 
 # blog output
-output/
+# output/
 public/

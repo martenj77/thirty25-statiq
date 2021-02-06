@@ -1,4 +1,4 @@
-﻿Title: Recent Posts
+﻿Title: 
 ArchiveSources: => $"posts/**/*"
 ArchiveDestination: >
   => GetInt("Index") <= 1 ? $"index.html" : $"{GetInt("Index")}.html"
