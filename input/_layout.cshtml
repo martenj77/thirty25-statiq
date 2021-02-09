@@ -36,11 +36,8 @@
     <body class="bg-gray-50">
 
 
-<<<<<<< HEAD
-=======
 
 
->>>>>>> main
         <header class="fixed top-0 left-0 w-full bg-gray-100 shadow py-2 md:py-4 z-50">
             <nav class="mx-auto max-w-3xl px-4 md:px-8 xl:px-0 flex  items-center">
                 <img src="/assets/avatar.svg" alt="Avatar image" height="3rem" width="3rem" class="h-12 w-12 mr-2"/>
@@ -57,7 +54,7 @@
         if (doc.Destination != "index.html")
         {
             <li class="float-right mx-auto px-4">
-                @Html.DocumentLink(doc, new Dictionary<object, object> { { "class", "nav-link" } })
+                @Html.DocumentLink(doc, new Dictionary<object, object> { { "class", "text-cyan-600 hover:text-cyan-700" } }) &rarr;
             </li>
         }
     }
