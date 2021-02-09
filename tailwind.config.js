@@ -9,7 +9,7 @@ module.exports = {
       fontFamily: {
         sans: ["Poppins", ...defaultTheme.fontFamily.sans],
         serif: ["Merriweather", ...defaultTheme.fontFamily.serif],
-        mono: ["Cascadia Code", ...defaultTheme.fontFamily.mono],
+        mono: ["Jetbrains Mono", ...defaultTheme.fontFamily.mono],
       },
       colors: {
         gray: colors.blueGray,

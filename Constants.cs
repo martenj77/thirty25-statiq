@@ -2,8 +2,8 @@
 {
     public class Constants
     {
-        public const string BlogTitle = "Thirty25";
-        public const string Description = "A collection of my bad ideas and questionable architectural decisions.";
+        public const string BlogTitle = "more10";
+        public const string Description = "My definition of a boombastic weblog.";
         public const int PostsPerPage = 10;
     }
 }
