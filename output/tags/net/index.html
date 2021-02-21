@@ -3,19 +3,19 @@
 <html lang="en">
 <head>
 
-    <title>more10 - Deploying your Statiq site to Netlify</title>
+    <title>more10 - .NET</title>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link href="/assets/styles.css" rel="stylesheet" />
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin />
 
 
-    <meta name="description" content="A quick and dirty way to host your hello world for the world (hello!) to see">
+    <meta name="description" content="My definition of a boombastic weblog.">
 
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="more10" />
-    <meta name="twitter:title" content="Deploying your Statiq site to Netlify" />
-    <meta name="twitter:description" content="A quick and dirty way to host your hello world for the world (hello!) to see" />
+    <meta name="twitter:title" content=".NET" />
+    <meta name="twitter:description" content="My definition of a boombastic weblog." />
     <meta name="twitter:image" content="/assets/avatar.png" />
 
     
@@ -53,50 +53,44 @@
 
 
         <main class="mx-auto max-w-3xl px-4 md:px-8 xl:px-0 mt-20 md:mt-24 mb-4 md:mb-16 font-light">
-            <img src="helloworld.jpg" class="mx-w-wd mx-auto pb-8 rounded-md"> 
-            <h2 class="font-sans font-bold text-4xl lg:font-extrabold lg:text-5xl leading-snug mb-2 lg:mb-4">Deploying your Statiq site to Netlify</h2>
+            <img src="" class="mx-w-wd mx-auto pb-8 rounded-md"> 
+            <h2 class="font-sans font-bold text-4xl lg:font-extrabold lg:text-5xl leading-snug mb-2 lg:mb-4">.NET</h2>
             
-<p class="mb-1 lg:my-b text-sm">Posted <time>den 1 februari 2021</time></p>
+  <!-- view all posts for a tag  -->
 
+
+<div>    
+        <div class="mb-4 lg:mb-8 pb-4 lg:pb-8 border-b border-blue-100">
+            <div class="flex flex-col md:flex-row md:flex-wrap md:items-center">
+                <h3 class="md:w-3/4 md:order-2 md:mb-2" ><a class="text-blue-900 hover:text-blue-600 font-sans font-bold text-3xl lg:font-extrabold lg:text-4xl leading-snug mb-2 lg:mb-4" href="/posts/2021-02-21-notes-and-links-from-csharp9-and-dotnet5-chapter2">Notes and links from C# 9 and .NET 5 (Chapter 2 - Speaking C#)</a></h3>
+                <time class="mb-2 md:mb-0 text-xs md:text-sm md:w-1/4 md:order-1 font-light">
+                    
+                    feb 21<br>
+                    2021
+                </time>
+                <article class="md:w-3/4 md:order-3 md:self-end md:ml-auto font-light">
+                    <p class="mb-6">My notes from reading C# 9 and .NET 5 by Mark J. Price</p>
+                    <div>
+                        
 <ul class="flex space-x-1 md:space-x-2 mb-4 overflow-hidden">
 <li  class="text-xs  py-0.5 px-1 text-blue-900 bg-blue-50 border border-blue-200 hover:bg-blue-100 hover:text-blue-800 hover:border-blue-300 rounded transition-colors">
-            <a href="/tags/statiq"> Statiq</a>
+            <a href="/tags/c"> c#</a>
+        </li>
+<li  class="text-xs  py-0.5 px-1 text-blue-900 bg-blue-50 border border-blue-200 hover:bg-blue-100 hover:text-blue-800 hover:border-blue-300 rounded transition-colors">
+            <a href="/tags/net"> .NET</a>
         </li>
 </ul>
 
+                    </div>
+                </article>    
+            </div>
+        </div>
+</div>
 
-<article class="prose lg:prose-lg max-w-full font-light text-gray-700 lg:leading-loose">
-    <p>This is the first part of (at least) two where we look at getting your site hosted at <a href="http://www.netlify.com">www.netlify.com</a>.</p>
-<h2 id="pre-requisites">1. Pre-requisites</h2>
-<ul>
-<li>an initial setup of Static.Web, see <a href="2021-02-01-getting-started-with-static">Getting started with Static</a></li>
-<li>an Github account</li>
-<li>an Netlify account</li>
-</ul>
-<h2 id="pushing-it-to-github">2. Pushing it to Github</h2>
-<p>I'll cover this part in a separate post. Soon.</p>
-<h2 id="setting-up-netlify">3. Setting up Netlify</h2>
-<ul>
-<li>Go to and login in to <a href="http://www.netlify.com">www.netlify.com</a>.</li>
-<li>From the app.netlify.com dashboard, click <strong>New site from Git</strong>.</li>
-<li>On the next screen, choose your git provider. In this example that would be <strong>GitHub</strong>.</li>
-<li>Now you need to authorize to GitHub, and after that you'll be presented  with a search for repositorys to link to Netlify. Most likely you don't see your new blog repo there, click <strong>Configure the Netlify app on GitHub</strong></li>
-<li>Pick your repo</li>
-<li>Set the Branch to deploy to <strong>master</strong></li>
-<li>Skip <strong>Build commands</strong> for now, and set <strong>Publish directory</strong> to <code>output</code></li>
-<li>Click <strong>Deploy site</strong></li>
-</ul>
-<p>In a few seconds it'll be up and running.</p>
-<p>Ok - so that was the really quick and dirty version. This means that you first have to build it locally and then push to GitHub. As soon as it's pushed to the master branch it will be deployed to Netlify. Neat!</p>
-<p>We of course want to skip building it locally, just pushing the <code>input</code> folder and letting instead GitHub automatically build when pushed and after that deployed to Netlify automatically.</p>
-<p>Yes - we'll get to that. But let's just celebrate for a second or two that our hello world &quot;site&quot; is live first.</p>
-<p>..</p>
-<p>..</p>
-<p>..</p>
-<p>...</p>
-<p>Ok, done. Moving on.</p>
 
-</article>
+
+
+
         </main>
 
         <footer>

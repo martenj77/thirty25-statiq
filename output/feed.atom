@@ -1,10 +1,47 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<id>https://w2.more10.eu/</id>
+	<id>https://w2.more10.eu/feed.rss</id>
 	<title />
 	<link rel="self" href="/" />
 	<rights>2021</rights>
-	<updated>2021-02-15T20:16:30Z</updated>
+	<updated>2021-02-21T20:08:53Z</updated>
+	<entry>
+		<id>/posts/2021-02-21-notes-and-links-from-csharp9-and-dotnet5-chapter2</id>
+		<title>Notes and links from C# 9 and .NET 5 (Chapter 2 - Speaking C#)</title>
+		<link href="/posts/2021-02-21-notes-and-links-from-csharp9-and-dotnet5-chapter2" />
+		<link rel="enclosure" type="image" href="/green_net.jpg" />
+		<updated>2021-02-21T21:08:51Z</updated>
+		<content>&lt;p&gt;Lots of great links in this book. Listing them here for my own use..&lt;/p&gt;
+&lt;h2 id="chapter-2"&gt;Chapter 2&lt;/h2&gt;
+&lt;p&gt;Composite formatting | Microsoft Docs
+&lt;a href="https://docs.microsoft.com/en-us/dotnet/standard/base-types/composite-formatting"&gt;https://docs.microsoft.com/en-us/dotnet/standard/base-types/composite-formatting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Formatting types in .NET | Microsoft Docs
+&lt;a href="https://docs.microsoft.com/en-us/dotnet/standard/base-types/formatting-types"&gt;https://docs.microsoft.com/en-us/dotnet/standard/base-types/formatting-types&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Exposing Floating Point – Bartosz Ciechanowski
+&lt;a href="https://ciechanow.ski/exposing-floating-point/"&gt;https://ciechanow.ski/exposing-floating-point/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;?? and ??= operators - C# reference | Microsoft Docs
+&lt;a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/null-coalescing-operator"&gt;https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/null-coalescing-operator&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Member access operators and expressions - C# reference | Microsoft Docs
+&lt;a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/member-access-operators#null-conditional-operators--and-"&gt;https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/member-access-operators#null-conditional-operators--and-&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This is how you get rid of null reference exceptions forever | On .NET | Channel 9
+&lt;a href="https://channel9.msdn.com/Shows/On-NET/This-is-how-you-get-rid-of-null-reference-exceptions-forever"&gt;https://channel9.msdn.com/Shows/On-NET/This-is-how-you-get-rid-of-null-reference-exceptions-forever&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Null References: The Billion Dollar Mistake
+&lt;a href="https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/"&gt;https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Why 0.1 Does Not Exist In Floating-Point - Exploring Binary
+&lt;a href="https://www.exploringbinary.com/why-0-point-1-does-not-exist-in-floating-point/"&gt;https://www.exploringbinary.com/why-0-point-1-does-not-exist-in-floating-point/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Main() and command-line arguments - C# Programming Guide | Microsoft Docs
+&lt;a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/main-and-command-args/"&gt;https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/main-and-command-args/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Types - C# Programming Guide | Microsoft Docs
+&lt;a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/types/"&gt;https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/types/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nullable value types - C# reference | Microsoft Docs
+&lt;a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/nullable-value-types"&gt;https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/nullable-value-types&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nullable reference types | Microsoft Docs
+&lt;a href="https://docs.microsoft.com/en-us/dotnet/csharp/nullable-references"&gt;https://docs.microsoft.com/en-us/dotnet/csharp/nullable-references&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Console Class (System) | Microsoft Docs
+&lt;a href="https://docs.microsoft.com/en-us/dotnet/api/system.console?view=net-5.0"&gt;https://docs.microsoft.com/en-us/dotnet/api/system.console?view=net-5.0&lt;/a&gt;&lt;/p&gt;
+</content>
+		<summary>My notes from reading C# 9 and .NET 5 by Mark J. Price</summary>
+	</entry>
 	<entry>
 		<id>/posts/2021-02-01-setting-up-for-netlify</id>
 		<title>Deploying your Statiq site to Netlify</title>
