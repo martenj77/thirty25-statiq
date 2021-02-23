@@ -1,6 +1,6 @@
 ---
-title: Notes and links from C# 9 and .NET 5 (Chapter 2 - Speaking C#)
-description: My notes from reading C# 9 and .NET 5 by Mark J. Price
+title: Notes and Links - Chapter 2 - Speaking C#
+description: My notes from reading chapter 2 of the book C# 9 and .NET 5 by Mark J. Price
 date: 2021-02-21
 image: ../assets/green_net.jpg
 tags: 
