@@ -4,50 +4,13 @@
 	<title />
 	<link rel="self" href="/" />
 	<rights>2021</rights>
-	<updated>2021-02-21T20:08:53Z</updated>
-	<entry>
-		<id>/posts/2021-02-21-notes-and-links-from-csharp9-and-dotnet5-chapter2</id>
-		<title>Notes and links from C# 9 and .NET 5 (Chapter 2 - Speaking C#)</title>
-		<link href="/posts/2021-02-21-notes-and-links-from-csharp9-and-dotnet5-chapter2" />
-		<link rel="enclosure" type="image" href="/green_net.jpg" />
-		<updated>2021-02-21T21:08:51Z</updated>
-		<content>&lt;p&gt;Lots of great links in this book. Listing them here for my own use..&lt;/p&gt;
-&lt;h2 id="chapter-2"&gt;Chapter 2&lt;/h2&gt;
-&lt;p&gt;Composite formatting | Microsoft Docs
-&lt;a href="https://docs.microsoft.com/en-us/dotnet/standard/base-types/composite-formatting"&gt;https://docs.microsoft.com/en-us/dotnet/standard/base-types/composite-formatting&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Formatting types in .NET | Microsoft Docs
-&lt;a href="https://docs.microsoft.com/en-us/dotnet/standard/base-types/formatting-types"&gt;https://docs.microsoft.com/en-us/dotnet/standard/base-types/formatting-types&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Exposing Floating Point – Bartosz Ciechanowski
-&lt;a href="https://ciechanow.ski/exposing-floating-point/"&gt;https://ciechanow.ski/exposing-floating-point/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;?? and ??= operators - C# reference | Microsoft Docs
-&lt;a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/null-coalescing-operator"&gt;https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/null-coalescing-operator&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Member access operators and expressions - C# reference | Microsoft Docs
-&lt;a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/member-access-operators#null-conditional-operators--and-"&gt;https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/member-access-operators#null-conditional-operators--and-&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;This is how you get rid of null reference exceptions forever | On .NET | Channel 9
-&lt;a href="https://channel9.msdn.com/Shows/On-NET/This-is-how-you-get-rid-of-null-reference-exceptions-forever"&gt;https://channel9.msdn.com/Shows/On-NET/This-is-how-you-get-rid-of-null-reference-exceptions-forever&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Null References: The Billion Dollar Mistake
-&lt;a href="https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/"&gt;https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Why 0.1 Does Not Exist In Floating-Point - Exploring Binary
-&lt;a href="https://www.exploringbinary.com/why-0-point-1-does-not-exist-in-floating-point/"&gt;https://www.exploringbinary.com/why-0-point-1-does-not-exist-in-floating-point/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Main() and command-line arguments - C# Programming Guide | Microsoft Docs
-&lt;a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/main-and-command-args/"&gt;https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/main-and-command-args/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Types - C# Programming Guide | Microsoft Docs
-&lt;a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/types/"&gt;https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/types/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Nullable value types - C# reference | Microsoft Docs
-&lt;a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/nullable-value-types"&gt;https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/nullable-value-types&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Nullable reference types | Microsoft Docs
-&lt;a href="https://docs.microsoft.com/en-us/dotnet/csharp/nullable-references"&gt;https://docs.microsoft.com/en-us/dotnet/csharp/nullable-references&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Console Class (System) | Microsoft Docs
-&lt;a href="https://docs.microsoft.com/en-us/dotnet/api/system.console?view=net-5.0"&gt;https://docs.microsoft.com/en-us/dotnet/api/system.console?view=net-5.0&lt;/a&gt;&lt;/p&gt;
-</content>
-		<summary>My notes from reading C# 9 and .NET 5 by Mark J. Price</summary>
-	</entry>
+	<updated>2021-02-23T18:15:51Z</updated>
 	<entry>
 		<id>/posts/2021-02-01-setting-up-for-netlify</id>
 		<title>Deploying your Statiq site to Netlify</title>
 		<link href="/posts/2021-02-01-setting-up-for-netlify" />
-		<link rel="enclosure" type="image" href="/helloworld.jpg" />
-		<updated>2021-02-11T21:27:20Z</updated>
+		<link rel="enclosure" type="image" href="/assets/helloworld.jpg" />
+		<updated>2021-02-23T19:15:50Z</updated>
 		<content>&lt;p&gt;This is the first part of (at least) two where we look at getting your site hosted at &lt;a href="http://www.netlify.com"&gt;www.netlify.com&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id="pre-requisites"&gt;1. Pre-requisites&lt;/h2&gt;
 &lt;ul&gt;
@@ -84,8 +47,8 @@
 		<id>/posts/2021-02-01-getting-started-with-static</id>
 		<title>Getting started with Statiq</title>
 		<link href="/posts/2021-02-01-getting-started-with-static" />
-		<link rel="enclosure" type="image" href="/gettingstarted.jpg" />
-		<updated>2021-02-11T21:27:15Z</updated>
+		<link rel="enclosure" type="image" href="/assets/gettingstarted.jpg" />
+		<updated>2021-02-23T19:15:19Z</updated>
 		<content>&lt;p&gt;I've been looking for a simple static site creator and since the very little programming knowledge I have is concentrated around C# and .NET I searched and found &lt;a href="https://statiq.dev/web/"&gt;Statiq.Web&lt;/a&gt;. With this post and some upcoming I'll try to describe what I did to get this blog up and running.&lt;/p&gt;
 &lt;p&gt;The plan is to document as the blog evolves. My overall plan is to break out of the &lt;a href="https://statiq.dev/web/themes/"&gt;bootstrap theme that Statiq is bundled with&lt;/a&gt;, moving over instead to &lt;a href="https://tailwindcss.com/"&gt;Tailwind CSS&lt;/a&gt;. Also I'll try and add some non-static functionality with Javascript working towards an API.&lt;/p&gt;
 &lt;p&gt;But I'm getting ahead of myself. First - let's show how I got the site initially set up.&lt;/p&gt;
@@ -155,8 +118,8 @@ Hello from my first Statiq page.
 		<id>/posts/2020-05-25-a-short-story-on-updating-your-ghost-instance</id>
 		<title>A short story on upgrading your Ghost instance running on Ubuntu</title>
 		<link href="/posts/2020-05-25-a-short-story-on-updating-your-ghost-instance" />
-		<link rel="enclosure" type="image" href="/ghost.jpg" />
-		<updated>2021-02-11T21:26:52Z</updated>
+		<link rel="enclosure" type="image" href="/assets/ghost.jpg" />
+		<updated>2021-02-23T19:15:10Z</updated>
 		<content>&lt;p&gt;Here are some notes I took while upgrading Ghost from 3.3.0 to 3.16.1.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Before you start: Make backups first. If you're using Digital Ocean you can go the easy way by making a snapshot through the Digital Ocean app. Otherwise, look at &lt;a href="https://ghost.org/update/?v=3.3.0"&gt;this info from Ghost.org&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id="update-your-server"&gt;Update your server&lt;/h2&gt;
@@ -197,13 +160,50 @@ ghost update
 		<id>/posts/2020-01-28-my-first-pr</id>
 		<title>My first PR</title>
 		<link href="/posts/2020-01-28-my-first-pr" />
-		<link rel="enclosure" type="image" href="/code.jpg" />
-		<updated>2021-02-11T21:26:46Z</updated>
+		<link rel="enclosure" type="image" href="/assets/code.jpg" />
+		<updated>2021-02-23T19:15:00Z</updated>
 		<content>&lt;p&gt;Today I did my first pull request.&lt;/p&gt;
 &lt;p&gt;It might not break the internet but hey, I’ve got to start somewhere.&lt;/p&gt;
 &lt;p&gt;If you’re in to Ghost? Like to run a Swedish site? With the Attila theme? Well then &lt;a href="https://github.com/zutrinken/attila/pull/92"&gt;this one’s for you&lt;/a&gt;. (a Swedish translation file for the &lt;a href="https://github.com/zutrinken/attila"&gt;Attila theme&lt;/a&gt;)&lt;/p&gt;
 </content>
 		<summary>A Ghost To Most</summary>
+	</entry>
+	<entry>
+		<id>/posts/2021-02-21-notes-and-links-from-csharp9-and-dotnet5-chapter2</id>
+		<title>Notes and links from C# 9 and .NET 5 (Chapter 2 - Speaking C#)</title>
+		<link href="/posts/2021-02-21-notes-and-links-from-csharp9-and-dotnet5-chapter2" />
+		<link rel="enclosure" type="image" href="/assets/green_net.jpg" />
+		<updated>2021-02-23T19:14:12Z</updated>
+		<content>&lt;p&gt;Lots of great links in this book. Listing them here for my own use..&lt;/p&gt;
+&lt;h2 id="chapter-2"&gt;Chapter 2&lt;/h2&gt;
+&lt;p&gt;Composite formatting | Microsoft Docs
+&lt;a href="https://docs.microsoft.com/en-us/dotnet/standard/base-types/composite-formatting"&gt;https://docs.microsoft.com/en-us/dotnet/standard/base-types/composite-formatting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Formatting types in .NET | Microsoft Docs
+&lt;a href="https://docs.microsoft.com/en-us/dotnet/standard/base-types/formatting-types"&gt;https://docs.microsoft.com/en-us/dotnet/standard/base-types/formatting-types&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Exposing Floating Point – Bartosz Ciechanowski
+&lt;a href="https://ciechanow.ski/exposing-floating-point/"&gt;https://ciechanow.ski/exposing-floating-point/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;?? and ??= operators - C# reference | Microsoft Docs
+&lt;a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/null-coalescing-operator"&gt;https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/null-coalescing-operator&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Member access operators and expressions - C# reference | Microsoft Docs
+&lt;a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/member-access-operators#null-conditional-operators--and-"&gt;https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/member-access-operators#null-conditional-operators--and-&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This is how you get rid of null reference exceptions forever | On .NET | Channel 9
+&lt;a href="https://channel9.msdn.com/Shows/On-NET/This-is-how-you-get-rid-of-null-reference-exceptions-forever"&gt;https://channel9.msdn.com/Shows/On-NET/This-is-how-you-get-rid-of-null-reference-exceptions-forever&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Null References: The Billion Dollar Mistake
+&lt;a href="https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/"&gt;https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Why 0.1 Does Not Exist In Floating-Point - Exploring Binary
+&lt;a href="https://www.exploringbinary.com/why-0-point-1-does-not-exist-in-floating-point/"&gt;https://www.exploringbinary.com/why-0-point-1-does-not-exist-in-floating-point/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Main() and command-line arguments - C# Programming Guide | Microsoft Docs
+&lt;a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/main-and-command-args/"&gt;https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/main-and-command-args/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Types - C# Programming Guide | Microsoft Docs
+&lt;a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/types/"&gt;https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/types/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nullable value types - C# reference | Microsoft Docs
+&lt;a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/nullable-value-types"&gt;https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/nullable-value-types&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nullable reference types | Microsoft Docs
+&lt;a href="https://docs.microsoft.com/en-us/dotnet/csharp/nullable-references"&gt;https://docs.microsoft.com/en-us/dotnet/csharp/nullable-references&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Console Class (System) | Microsoft Docs
+&lt;a href="https://docs.microsoft.com/en-us/dotnet/api/system.console?view=net-5.0"&gt;https://docs.microsoft.com/en-us/dotnet/api/system.console?view=net-5.0&lt;/a&gt;&lt;/p&gt;
+</content>
+		<summary>My notes from reading C# 9 and .NET 5 by Mark J. Price</summary>
 	</entry>
 	<entry>
 		<id>/test-copy</id>

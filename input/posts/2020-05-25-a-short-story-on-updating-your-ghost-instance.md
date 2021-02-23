@@ -4,7 +4,7 @@ description: Ghost rider in the sky
 tags: 
   - Ghost
 date: 2020-05-25
-image: ghost.jpg
+image: ../assets/ghost.jpg
 ---
 Here are some notes I took while upgrading Ghost from 3.3.0 to 3.16.1.
 

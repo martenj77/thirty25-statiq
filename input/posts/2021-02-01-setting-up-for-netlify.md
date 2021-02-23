@@ -2,7 +2,7 @@
 title: Deploying your Statiq site to Netlify
 description: A quick and dirty way to host your hello world for the world (hello!) to see
 date: 2021-02-01
-image: helloworld.jpg
+image: ./assets/helloworld.jpg
 tags: 
   - Statiq
 ---

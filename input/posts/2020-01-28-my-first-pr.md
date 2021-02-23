@@ -2,7 +2,7 @@
 title: My first PR
 description: A Ghost To Most
 date: 2020-01-28
-image: code.jpg
+image: ../assets/code.jpg
 tags: 
   - Ghost
 ---
