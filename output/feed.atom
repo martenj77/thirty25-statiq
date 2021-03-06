@@ -4,13 +4,13 @@
 	<title />
 	<link rel="self" href="/" />
 	<rights>2021</rights>
-	<updated>2021-02-23T18:22:50Z</updated>
+	<updated>2021-02-23T20:20:36Z</updated>
 	<entry>
 		<id>/posts/2021-02-21-notes-and-links-from-csharp9-and-dotnet5-chapter2</id>
 		<title>Notes and Links - Chapter 2 - Speaking C#</title>
 		<link href="/posts/2021-02-21-notes-and-links-from-csharp9-and-dotnet5-chapter2" />
 		<link rel="enclosure" type="image" href="/assets/green_net.jpg" />
-		<updated>2021-02-23T19:19:47Z</updated>
+		<updated>2021-02-23T21:20:11Z</updated>
 		<content>&lt;p&gt;Lots of great links in this book. Listing them here for my own use..&lt;/p&gt;
 &lt;h2 id="chapter-2"&gt;Chapter 2&lt;/h2&gt;
 &lt;p&gt;Composite formatting | Microsoft Docs
@@ -41,6 +41,31 @@
 &lt;a href="https://docs.microsoft.com/en-us/dotnet/api/system.console?view=net-5.0"&gt;https://docs.microsoft.com/en-us/dotnet/api/system.console?view=net-5.0&lt;/a&gt;&lt;/p&gt;
 </content>
 		<summary>My notes from reading chapter 2 of the book C# 9 and .NET 5 by Mark J. Price</summary>
+	</entry>
+	<entry>
+		<id>/posts/2021-02-23-notes-and-links-from-csharp9-and-dotnet5-chapter3</id>
+		<title>Notes and Links - Chapter 3 - Controlling flow and converting types</title>
+		<link href="/posts/2021-02-23-notes-and-links-from-csharp9-and-dotnet5-chapter3" />
+		<link rel="enclosure" type="image" href="/assets/green_net.jpg" />
+		<updated>2021-02-23T21:19:58Z</updated>
+		<content>&lt;p&gt;Lots of great links in this book. Listing them here for my own use.. and added some of my own&lt;/p&gt;
+&lt;h2 id="chapter-3"&gt;Chapter 3&lt;/h2&gt;
+&lt;p&gt;Truth table - Wikipedia
+&lt;a href="https://en.wikipedia.org/wiki/Truth_table"&gt;https://en.wikipedia.org/wiki/Truth_table&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Side effect (computer science) - Wikipedia
+&lt;a href="https://en.wikipedia.org/wiki/Side_effect_(computer_science)"&gt;https://en.wikipedia.org/wiki/Side_effect_(computer_science)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Member access operators and expressions - C# reference | Microsoft Docs
+&lt;a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/member-access-operators"&gt;https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/member-access-operators&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Bitwise and shift operators - C# reference | Microsoft Docs
+&lt;a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/bitwise-and-shift-operators"&gt;https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/bitwise-and-shift-operators&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;goto fail;
+&lt;a href="https://gotofail.com/"&gt;https://gotofail.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Pattern Matching - C# Guide | Microsoft Docs
+&lt;a href="https://docs.microsoft.com/en-us/dotnet/csharp/pattern-matching"&gt;https://docs.microsoft.com/en-us/dotnet/csharp/pattern-matching&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Do more with patterns in C# 8.0 | .NET Blog
+&lt;a href="https://devblogs.microsoft.com/dotnet/do-more-with-patterns-in-c-8-0/"&gt;https://devblogs.microsoft.com/dotnet/do-more-with-patterns-in-c-8-0/&lt;/a&gt;&lt;/p&gt;
+</content>
+		<summary>My notes from reading chapter 3 of the book C# 9 and .NET 5 by Mark J. Price</summary>
 	</entry>
 	<entry>
 		<id>/posts/2021-02-01-setting-up-for-netlify</id>

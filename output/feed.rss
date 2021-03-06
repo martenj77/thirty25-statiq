@@ -5,15 +5,15 @@
 		<link>/</link>
 		<description />
 		<copyright>2021</copyright>
-		<pubDate>Tue, 23 Feb 2021 18:22:50 GMT</pubDate>
-		<lastBuildDate>Tue, 23 Feb 2021 18:22:50 GMT</lastBuildDate>
+		<pubDate>Tue, 23 Feb 2021 20:20:36 GMT</pubDate>
+		<lastBuildDate>Tue, 23 Feb 2021 20:20:36 GMT</lastBuildDate>
 		<item>
 			<title>Notes and Links - Chapter 2 - Speaking C#</title>
 			<link>/posts/2021-02-21-notes-and-links-from-csharp9-and-dotnet5-chapter2</link>
 			<description>My notes from reading chapter 2 of the book C# 9 and .NET 5 by Mark J. Price</description>
 			<enclosure url="/assets/green_net.jpg" length="0" type="image" />
 			<guid isPermaLink="false">/posts/2021-02-21-notes-and-links-from-csharp9-and-dotnet5-chapter2</guid>
-			<pubDate>Tue, 23 Feb 2021 19:19:47 GMT</pubDate>
+			<pubDate>Tue, 23 Feb 2021 21:20:11 GMT</pubDate>
 			<content:encoded>&lt;p&gt;Lots of great links in this book. Listing them here for my own use..&lt;/p&gt;
 &lt;h2 id="chapter-2"&gt;Chapter 2&lt;/h2&gt;
 &lt;p&gt;Composite formatting | Microsoft Docs
@@ -42,6 +42,32 @@
 &lt;a href="https://docs.microsoft.com/en-us/dotnet/csharp/nullable-references"&gt;https://docs.microsoft.com/en-us/dotnet/csharp/nullable-references&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Console Class (System) | Microsoft Docs
 &lt;a href="https://docs.microsoft.com/en-us/dotnet/api/system.console?view=net-5.0"&gt;https://docs.microsoft.com/en-us/dotnet/api/system.console?view=net-5.0&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+			<comments xmlns="http://purl.org/rss/1.0/modules/slash/">0</comments>
+		</item>
+		<item>
+			<title>Notes and Links - Chapter 3 - Controlling flow and converting types</title>
+			<link>/posts/2021-02-23-notes-and-links-from-csharp9-and-dotnet5-chapter3</link>
+			<description>My notes from reading chapter 3 of the book C# 9 and .NET 5 by Mark J. Price</description>
+			<enclosure url="/assets/green_net.jpg" length="0" type="image" />
+			<guid isPermaLink="false">/posts/2021-02-23-notes-and-links-from-csharp9-and-dotnet5-chapter3</guid>
+			<pubDate>Tue, 23 Feb 2021 21:19:58 GMT</pubDate>
+			<content:encoded>&lt;p&gt;Lots of great links in this book. Listing them here for my own use.. and added some of my own&lt;/p&gt;
+&lt;h2 id="chapter-3"&gt;Chapter 3&lt;/h2&gt;
+&lt;p&gt;Truth table - Wikipedia
+&lt;a href="https://en.wikipedia.org/wiki/Truth_table"&gt;https://en.wikipedia.org/wiki/Truth_table&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Side effect (computer science) - Wikipedia
+&lt;a href="https://en.wikipedia.org/wiki/Side_effect_(computer_science)"&gt;https://en.wikipedia.org/wiki/Side_effect_(computer_science)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Member access operators and expressions - C# reference | Microsoft Docs
+&lt;a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/member-access-operators"&gt;https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/member-access-operators&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Bitwise and shift operators - C# reference | Microsoft Docs
+&lt;a href="https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/bitwise-and-shift-operators"&gt;https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/bitwise-and-shift-operators&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;goto fail;
+&lt;a href="https://gotofail.com/"&gt;https://gotofail.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Pattern Matching - C# Guide | Microsoft Docs
+&lt;a href="https://docs.microsoft.com/en-us/dotnet/csharp/pattern-matching"&gt;https://docs.microsoft.com/en-us/dotnet/csharp/pattern-matching&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Do more with patterns in C# 8.0 | .NET Blog
+&lt;a href="https://devblogs.microsoft.com/dotnet/do-more-with-patterns-in-c-8-0/"&gt;https://devblogs.microsoft.com/dotnet/do-more-with-patterns-in-c-8-0/&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
 			<comments xmlns="http://purl.org/rss/1.0/modules/slash/">0</comments>
 		</item>
