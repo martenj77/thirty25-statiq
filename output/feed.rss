@@ -5,8 +5,28 @@
 		<link>/</link>
 		<description />
 		<copyright>2021</copyright>
-		<pubDate>Tue, 23 Feb 2021 20:20:36 GMT</pubDate>
-		<lastBuildDate>Tue, 23 Feb 2021 20:20:36 GMT</lastBuildDate>
+		<pubDate>Sat, 06 Mar 2021 19:58:20 GMT</pubDate>
+		<lastBuildDate>Sat, 06 Mar 2021 19:58:20 GMT</lastBuildDate>
+		<item>
+			<title>Discovering PlantUML and using it for C4 Architecture diagrams</title>
+			<link>/posts/2021-03-06-plantuml-and-c4</link>
+			<enclosure url="/assets/columns.jpg" length="0" type="image" />
+			<guid isPermaLink="false">/posts/2021-03-06-plantuml-and-c4</guid>
+			<pubDate>Sat, 06 Mar 2021 20:58:19 GMT</pubDate>
+			<content:encoded>&lt;p&gt;&lt;a href="https://docs.microsoft.com/en-us/sql/relational-databases/import-export/create-a-format-file-sql-server?view=sql-server-ver15"&gt;https://docs.microsoft.com/en-us/sql/relational-databases/import-export/create-a-format-file-sql-server?view=sql-server-ver15&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+			<comments xmlns="http://purl.org/rss/1.0/modules/slash/">0</comments>
+		</item>
+		<item>
+			<title>Importing data to SQL Server with a format file</title>
+			<link>/posts/2021-03-06-importing-data-to-sql-server-with-a-format-file</link>
+			<enclosure url="/assets/columns.jpg" length="0" type="image" />
+			<guid isPermaLink="false">/posts/2021-03-06-importing-data-to-sql-server-with-a-format-file</guid>
+			<pubDate>Sat, 06 Mar 2021 20:54:46 GMT</pubDate>
+			<content:encoded>&lt;p&gt;&lt;a href="https://docs.microsoft.com/en-us/sql/relational-databases/import-export/create-a-format-file-sql-server?view=sql-server-ver15"&gt;https://docs.microsoft.com/en-us/sql/relational-databases/import-export/create-a-format-file-sql-server?view=sql-server-ver15&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+			<comments xmlns="http://purl.org/rss/1.0/modules/slash/">0</comments>
+		</item>
 		<item>
 			<title>Notes and Links - Chapter 2 - Speaking C#</title>
 			<link>/posts/2021-02-21-notes-and-links-from-csharp9-and-dotnet5-chapter2</link>
